@@ -1,13 +1,14 @@
 # Bnzina-Online
 bnzina-online is a final project for NTI-WEB DEVELOPEMENT TRACK
-##team members
-1-karima hussein
-2-rana alaa
-3-yara yasser
-4-sahar mohamed
+
+## team members
+1-karima hussein<br>
+2-rana alaa<br>
+3-yara yasser<br>
+4-sahar mohamed<br>
 
 ## Idea
-Connect car owners with nearby gas stations through a simple click
+Connecting car owners with nearby gas stations through a simple click
 
 ## Abstract
 the project aims to
