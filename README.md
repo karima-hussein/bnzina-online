@@ -1,11 +1,18 @@
 # Bnzina-Online
+bnzina-online is a final project for NTI-WEB DEVELOPEMENT TRACK
+##team members
+1-karima hussein
+2-rana alaa
+3-yara yasser
+4-sahar mohamed
+
 ## Idea
-Connect car owners with nearly mobiles through a simple click
+Connect car owners with nearby gas stations through a simple click
 
 ## Abstract
-project aims to
-provide the main Mobil services suchlike Car wash , Fueling , Mechanical Repairs , Winch , tire pumping , oil changing , etc.
-Through out contracted mobiles , All hours of the day and covers most of the regions
+the project aims to
+provide the main gas station services such as car wash,fueling, mechanical repairs, Winch,tire pumping, oil changing, et,
+Through our contracted gas stations,at any time and covers most of the regions
 
 ## Technologies used
 Html5,Css3,Bootstrap4,Javascript,Jquery,Ajax <br>
